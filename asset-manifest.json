@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.50cc08c3.css",
+    "main.js": "/Portfolio-master/static/js/main.1f6b0270.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Aayushi_avatar.png": "/Portfolio-master/static/media/Aayushi_avatar.920387a8cac285eae47d.png",
+    "static/media/Resume_Aayushi_Patel.pdf": "/Portfolio-master/static/media/Resume_Aayushi_Patel.71eee1ca728dcd5ddce7.pdf",
+    "static/media/FreightMode.png": "/Portfolio-master/static/media/FreightMode.fc14e64e53ff68af1a17.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/NYC.png": "/Portfolio-master/static/media/NYC.92ee4984e6a841db611a.png",
+    "static/media/about.svg": "/Portfolio-master/static/media/about.c46d7a3b024dd36e67abe0badae50736.svg",
+    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.a10c7bc6352e38d2a11d3b3644671b50.svg",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "main.50cc08c3.css.map": "/Portfolio-master/static/css/main.50cc08c3.css.map",
+    "main.1f6b0270.js.map": "/Portfolio-master/static/js/main.1f6b0270.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cc08c3.css",
+    "static/js/main.1f6b0270.js"
+  ]
+}
