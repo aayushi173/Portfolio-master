@@ -70,7 +70,7 @@ Whenever I can, I channel my curiosity into exploring machine learning, process 
              
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/aayushi170301/"
+                  href="https://www.linkedin.com/in/aayushi-patel17/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
